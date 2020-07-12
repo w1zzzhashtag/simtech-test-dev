@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simtech-test-dev/static/css/main.50a4e5e0.chunk.css",
+    "main.js": "/simtech-test-dev/static/js/main.9b5dbd64.chunk.js",
+    "main.js.map": "/simtech-test-dev/static/js/main.9b5dbd64.chunk.js.map",
+    "runtime-main.js": "/simtech-test-dev/static/js/runtime-main.b9f1b20c.js",
+    "runtime-main.js.map": "/simtech-test-dev/static/js/runtime-main.b9f1b20c.js.map",
+    "static/js/2.48320072.chunk.js": "/simtech-test-dev/static/js/2.48320072.chunk.js",
+    "static/js/2.48320072.chunk.js.map": "/simtech-test-dev/static/js/2.48320072.chunk.js.map",
+    "index.html": "/simtech-test-dev/index.html",
+    "precache-manifest.01c62107efe603423f9738de755b7279.js": "/simtech-test-dev/precache-manifest.01c62107efe603423f9738de755b7279.js",
+    "service-worker.js": "/simtech-test-dev/service-worker.js",
+    "static/css/main.50a4e5e0.chunk.css.map": "/simtech-test-dev/static/css/main.50a4e5e0.chunk.css.map",
+    "static/js/2.48320072.chunk.js.LICENSE.txt": "/simtech-test-dev/static/js/2.48320072.chunk.js.LICENSE.txt",
+    "static/media/CVV.png": "/simtech-test-dev/static/media/CVV.0fcb68ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9f1b20c.js",
+    "static/js/2.48320072.chunk.js",
+    "static/css/main.50a4e5e0.chunk.css",
+    "static/js/main.9b5dbd64.chunk.js"
+  ]
+}
