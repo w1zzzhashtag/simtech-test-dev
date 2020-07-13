@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/simtech-test-dev/static/css/main.50a4e5e0.chunk.css",
-    "main.js": "/simtech-test-dev/static/js/main.9b5dbd64.chunk.js",
-    "main.js.map": "/simtech-test-dev/static/js/main.9b5dbd64.chunk.js.map",
+    "main.css": "/simtech-test-dev/static/css/main.6ebbcf69.chunk.css",
+    "main.js": "/simtech-test-dev/static/js/main.9f0cfc93.chunk.js",
+    "main.js.map": "/simtech-test-dev/static/js/main.9f0cfc93.chunk.js.map",
     "runtime-main.js": "/simtech-test-dev/static/js/runtime-main.b9f1b20c.js",
     "runtime-main.js.map": "/simtech-test-dev/static/js/runtime-main.b9f1b20c.js.map",
-    "static/js/2.48320072.chunk.js": "/simtech-test-dev/static/js/2.48320072.chunk.js",
-    "static/js/2.48320072.chunk.js.map": "/simtech-test-dev/static/js/2.48320072.chunk.js.map",
+    "static/js/2.f8b13ae9.chunk.js": "/simtech-test-dev/static/js/2.f8b13ae9.chunk.js",
+    "static/js/2.f8b13ae9.chunk.js.map": "/simtech-test-dev/static/js/2.f8b13ae9.chunk.js.map",
     "index.html": "/simtech-test-dev/index.html",
-    "precache-manifest.01c62107efe603423f9738de755b7279.js": "/simtech-test-dev/precache-manifest.01c62107efe603423f9738de755b7279.js",
+    "precache-manifest.455ab4ea63d4a028194f696a29016ce1.js": "/simtech-test-dev/precache-manifest.455ab4ea63d4a028194f696a29016ce1.js",
     "service-worker.js": "/simtech-test-dev/service-worker.js",
-    "static/css/main.50a4e5e0.chunk.css.map": "/simtech-test-dev/static/css/main.50a4e5e0.chunk.css.map",
-    "static/js/2.48320072.chunk.js.LICENSE.txt": "/simtech-test-dev/static/js/2.48320072.chunk.js.LICENSE.txt",
+    "static/css/main.6ebbcf69.chunk.css.map": "/simtech-test-dev/static/css/main.6ebbcf69.chunk.css.map",
+    "static/js/2.f8b13ae9.chunk.js.LICENSE.txt": "/simtech-test-dev/static/js/2.f8b13ae9.chunk.js.LICENSE.txt",
     "static/media/CVV.png": "/simtech-test-dev/static/media/CVV.0fcb68ef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b9f1b20c.js",
-    "static/js/2.48320072.chunk.js",
-    "static/css/main.50a4e5e0.chunk.css",
-    "static/js/main.9b5dbd64.chunk.js"
+    "static/js/2.f8b13ae9.chunk.js",
+    "static/css/main.6ebbcf69.chunk.css",
+    "static/js/main.9f0cfc93.chunk.js"
   ]
 }
