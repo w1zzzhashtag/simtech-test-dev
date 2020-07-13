@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/simtech-test-dev/precache-manifest.455ab4ea63d4a028194f696a29016ce1.js"
+  "/simtech-test-dev/precache-manifest.a06a76e7d60a0e23f459403ad0a8bacf.js"
 );
 
 self.addEventListener('message', (event) => {

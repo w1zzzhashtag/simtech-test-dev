@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/simtech-test-dev/static/css/main.6ebbcf69.chunk.css",
-    "main.js": "/simtech-test-dev/static/js/main.9f0cfc93.chunk.js",
-    "main.js.map": "/simtech-test-dev/static/js/main.9f0cfc93.chunk.js.map",
+    "main.css": "/simtech-test-dev/static/css/main.48ba9191.chunk.css",
+    "main.js": "/simtech-test-dev/static/js/main.930c6b34.chunk.js",
+    "main.js.map": "/simtech-test-dev/static/js/main.930c6b34.chunk.js.map",
     "runtime-main.js": "/simtech-test-dev/static/js/runtime-main.b9f1b20c.js",
     "runtime-main.js.map": "/simtech-test-dev/static/js/runtime-main.b9f1b20c.js.map",
     "static/js/2.f8b13ae9.chunk.js": "/simtech-test-dev/static/js/2.f8b13ae9.chunk.js",
     "static/js/2.f8b13ae9.chunk.js.map": "/simtech-test-dev/static/js/2.f8b13ae9.chunk.js.map",
     "index.html": "/simtech-test-dev/index.html",
-    "precache-manifest.455ab4ea63d4a028194f696a29016ce1.js": "/simtech-test-dev/precache-manifest.455ab4ea63d4a028194f696a29016ce1.js",
+    "precache-manifest.a06a76e7d60a0e23f459403ad0a8bacf.js": "/simtech-test-dev/precache-manifest.a06a76e7d60a0e23f459403ad0a8bacf.js",
     "service-worker.js": "/simtech-test-dev/service-worker.js",
-    "static/css/main.6ebbcf69.chunk.css.map": "/simtech-test-dev/static/css/main.6ebbcf69.chunk.css.map",
+    "static/css/main.48ba9191.chunk.css.map": "/simtech-test-dev/static/css/main.48ba9191.chunk.css.map",
     "static/js/2.f8b13ae9.chunk.js.LICENSE.txt": "/simtech-test-dev/static/js/2.f8b13ae9.chunk.js.LICENSE.txt",
     "static/media/CVV.png": "/simtech-test-dev/static/media/CVV.0fcb68ef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b9f1b20c.js",
     "static/js/2.f8b13ae9.chunk.js",
-    "static/css/main.6ebbcf69.chunk.css",
-    "static/js/main.9f0cfc93.chunk.js"
+    "static/css/main.48ba9191.chunk.css",
+    "static/js/main.930c6b34.chunk.js"
   ]
 }
